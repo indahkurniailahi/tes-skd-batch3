@@ -1,0 +1,1837 @@
+[
+  {
+    "id": 1,
+    "category": "TWK",
+    "question": "Penggunaan tanda baca yang salah terdapat pada kalimat...",
+    "options": {
+      "A": "Siap...gerak!",
+      "B": "Proporsi guru pria dan wanita di sekolah itu adalah 1:4.",
+      "C": "Ayo kita pergi ke taman kota sekarang juga!",
+      "D": "Slla;hkan pilih produk yang Anda inginkan",
+      "E": "Apa yang menyebabkan bunga tulip mekar di musim semi?"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+
+  {
+    "id": 2,
+    "category": "TWK",
+    "question": "Penggunaan tanda baca yang salah terdapat pada kalimat...",
+    "options": {
+      "A": "'Bangjo' adalah istilah untuk lampu merah yang populer bagi masyarakat Jawa",
+      "B": "Professor Faisal, seorang ahli biologi, memberikan kuliah tentang evolusi spesies di konferensi internasional.",
+      "C": "Setengah lencang lengan kanan...gerak!",
+      "D": "Selamat ulang tahun yang ke-17, Dian!",
+      "E": "Bakteri dan virus memainkan peran penting dalam kesehatan manusida dan ekosistem."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 3,
+    "category": "TWK",
+    "question": "Lebih dari 100 spesies baru ditemukan di pegunungan bawah laut sepanjang Nazca dan Salas y Gomez Ridge di lepas pantai Cile. Ekspedisi yang dipimpin oleh Dr Javier Sellanes menggunakan robot bawah air untuk menyelidiki kedalaman 4.500 meter dan mengumpulkan data dari 10 gunung bawah laut. Temuan mencakup karang sponskaca, bulubabi, amphipoda, lobster, serta ikan dan cumi unik. Para ilmuwan berharap penemuan ini akan memberikan wawasan baru mengenai keanekaragaman hayati laut di Pasifik dan sekitarnya serta mendukung perlindungan terhadap habitat laut yang rentan. Eksplorasi ini terus dilakukan dengan harapan menemukan lebih banyak spesies baru di masa mendatang. Ide pokok dari paragraf tersebut adalah....",
+    "options": {
+      "A": "Eksplorasi mengancam ekosistem laut yang sudah ada.",
+      "B": "Cile terkenal dengan surga bawah lautnya.",
+      "C": "Ekspedisi bawah laut menggunakan robot dan peralatan canggih.",
+      "D": "Penemuan spesies baru hasil ekspedisi di Cile.",
+      "E": "Perlindungan keanekaragaman hayati laut di Pasifik."
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 4,
+    "category": "TWK",
+    "question": "Pemerintah Kolombia mengumumkan rencaana ekspedisi bawah laut, untuk mencari harta karun yang diduga dibawa oleh Kapal San Jose yang tenggelam pada abat ke-18 di Karibia. Kapal ini diyakini membawa 11 juta koin emas dan perak, zamrud, serta muatan berharga lainnya. AP melaporkan nilai barang-barang tersebut bisa mencapai miliaran dollar. Pemerintah Kolombia mengalokasikan dana USD 4.5 juta untuk ekspedisi tersebut. Menteri Kebudayaan Kolombia, Juan David Correa menyatakan bahwa ini adalah langkah formal pertama untuk mengklaim unsur-unsur warisan sejarah. Ekspedisi ini bertujuan mempelajari sejarah detail kapal San Jose dengan melibatkan 600 awak. Penemuan kapal tersebut sebelumnya telah memicu perselisihan antara Kolombia, Spanyol, dan perusahaan swasta Amerika Serikat. Namun, Kolombia tetap melanjutkan rencana ekspedisinya. Ide pokok dari paragraf tersebut adalah....",
+    "options": {
+      "A": "Kolombia, Spanyol, dan Amerika berselisih klaim atas Kapal San Jose.",
+      "B": "Kapal San Jose sebagai warisan sejarah Kolombia",
+      "C": "Kapal San Jose diduga membawa muatan berharga",
+      "D": "Pemerintah Kolombia melakukan ekspedisi di kapal San Jose.",
+      "E": "Pemerintah Kolombia mencari harta karun."
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 5,
+    "category": "TWK",
+    "question": "Kalimat efektif dari 'Dalam rangka untuk meningkatkan kualitas pendidikan. Maka pemerintah akan mengadakan berbagai macam program-program pelatihan guru' adalah....",
+    "options": {
+      "A": "Untuk meningkatkan kualitas pendidikan, pemerintah akan mengadakan berbagai program pelatihan guru.",
+      "B": "Dalam rangka meningkatkan kualitas pendidikan pemerintah akan mengadakan berbagai macam program pelatihan guru",
+      "C": "Pemerintah akan mengadakan berbagai macam program-program pelatihan guru untuk meningkatkan kualitas pendidikan.",
+      "D": "Berbagai program pelatihan guru akan diadakan oleh pemerintah dalam rangka untuk meningkatkan kualitas pendidikan.",
+      "E": "Dalam rangka meningkatkan kualitas pendidikan, pemerintah akan mengadakan berbagai macam program-program pelatihan guru."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 6,
+    "category": "TWK",
+    "question": "Pasal 31 ayat (1) UUD 1945 menyatakan 'Setiap warga negara berhak mendapat pendidikan'. Apabila pasal ini tidak dijalankan, dampak yang mungkin terjadi adalah...",
+    "options": {
+      "A": "Banyak anak yang tidak dapat bersekolah karena biaya pendidikan yang tinggi dan kurangnya dukungan pemerintah.",
+      "B": "Pemerintah menyediakan pendidikan gratis, namun hanya untuk warga kota besar yang memiliki fasilitas pendidikan.",
+      "C": "Warga negara harus membayar biaya pendidikan lebih tinggi, namun tetap dapat mengakses beasiswa dari pemerintah.",
+      "D": "Pendidikan diberikan kepada mereka yang mampu secara finansial, sehingga terjadi kesenjangan pendidikan antara yang kaya dan miskin.",
+      "E": "Pemerintah memberikan subsidi pendidikan hanya untuk pendidikan dasar, sedangkan pendidikan lanjutan dibebankan kepada masyarakat."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 7,
+    "category": "TWK",
+    "question": "Salah satu tantangan utama dalam mengamalkan semboyan Bhineka Tunggal Ika adalah menjaga persatuan di tengah perbedaan. Jika prinsip ini tidak dijalankan dengan baik, maka yang paling mungkin terjadi adalah....",
+    "options": {
+      "A": "Masyarakat tetap hidup bersama dalam satu wilayah, tetapi dengan rasa curiga yang tinggi terhadap kelompok lain.",
+      "B": "Pemerintah harus sering turun untuk mendamaikan konflik antar suku dan agama di berbagai wilayah.",
+      "C": "Pembangunan nasional tetap berjalan tetapi cenderung terfokus di wilayah dengan populasi yang homogen.",
+      "D": "Terjadi kesenjangan ekonomi antara daerah-daerah yang berbeda karena kurangnya kerjasama antar komunitas.",
+      "E": "Masyarakat lebih mengutamakan nilai-nilai lokal mereka sendiri tanpa memperhatikan nilai-nilai nasional."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 8,
+    "category": "TWK",
+    "question": "Pasal 28D ayat (1) UUD 1945 berbunyi: 'Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum'. Implementasi pasal ini dalam kehidupan sehari-hari adalah....",
+    "options": {
+      "A": "Semua warga negara mendapatkan bantuan hukum dalam kasus pidana maupun perdata tanpa diskriminasi.",
+      "B": "Warga negara dapat mengajukan banding di pengadilan jika merasa tidak mendapatkan keadilan, namun hanya bagi mereka yang mampu menbayar biaya perkara.",
+      "C": "Pemerintah menyediakan akses bantuan hukum kepada masyarakat kurang mampu dan menjamin proses hukum yang adil bagi semua.",
+      "D": "Setiap orang berhak atas perlindungan hukum, tetapi proses hukum dapat bervariasi tergantung pada status sosial seseorang.",
+      "E": "Bantuan hukum diberikan kepada warga negara yang memenuhi syarat administrasi tertentu, dan proses hukum dilakukan secara transparan."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 9,
+    "category": "TWK",
+    "question": "Sila kelima Pancasila 'Keadilan sosial bagi seluruh rakyat Indonesia', bertujuan untuk menciptakan kesejahteraan yang merata. Apabila nilai ini tidak diimplementasikan dengan baik dalam kebijakan publik, maka...",
+    "options": {
+      "A": "Kesenjangan sosial antara kaya dan miskin akan semakin terlihat, meskipun program kesejahteraan tetap berjalan.",
+      "B": "Pemerintah tetap melaksanakan program bantuan sosial, namun fokus hanya pada wilayah perkotaan.",
+      "C": "Masyarakat di daerah terpencil akan tetap mendapatkan akses layanan kesehatan dasar, namun dengan kualitas yang berbeda.",
+      "D": "Program pembangunan tetap berjalan, tetapi manfaatnya lebih dirasakan oleh kelompok masyarakat menengah ke atas.",
+      "E": "Keadilan sosial akan tercapai di beberapa sektor, namun tidak merata di seluruh wilayah Indonesia."
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 10,
+    "category": "TWK",
+    "question": "NKRI dibentuk dengan semangat persatuan dan kesatuan bangsa yang tercermin dalam sila ketiga Pancasila, 'Persatuan Indonesia'. Jika semangat ini melemah di kalangan masyarakat, maka yang paling mungkin terjadi adalah...",
+    "options": {
+      "A": "Masyarakat tetap bisa hidup berdampigan, namun dengan semakin banyaknya batasan wilayah.",
+      "B": "Terjadi peningkatan konflik sosial yang disebabkan oleh perbedaan identitas daerah.",
+      "C": "Pemerintah harus lebih serig mengadakan kampanye persatuan di daerah-daerah rawan konflik.",
+      "D": "Hubungan antar masyarakat antar daerah menjadi lebih formal tanpa adanya rasa kekeluargaan.",
+      "E": "Kelompok-kelompok masyarakat di berbagai daerah lebih memilih untuk mengembangkan budaya masing-masing secara terpisah."
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 11,
+    "category": "TWK",
+    "question": "Pasal 34 ayat (2) UUD 1945 berbunyi, 'Negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan'. Jika pasal ini tidak dijalankan, dampak yang mungkin terjadi adalah...",
+    "options": {
+      "A": "Masyarakat tetap bisa mengakses layanan jaminan sosial melalui program swasta.",
+      "B": "Kesenjangan sosial meningkat karena tidak ada program bantuan untuk masyarakat yang kurang mampu.",
+      "C": "Program jaminan sosial hanya dapat dinikmati oleh mereka yang berada di bawah garis kemiskinan.",
+      "D": "Pemerintah akan lebih fokus pada program-program ekonomi besar daripada memperhatikan kebutuhan dasar masyarakat kecil.",
+      "E": "Masyarakat lemah dan tidak mampu hanya bisa mengandalkan dukungan dari lembaga sosial non-pemerintah."
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 12,
+    "category": "TWK",
+    "question": "Pancasila sebagai ideologi terbuka mengandung nilai-nilai yang dapat beradaptasi dengan perkembangan zaman. Salah satu cara mengamalkan Pancasila dalam menghadapi tantangan globalisasi adalah....",
+    "options": {
+      "A": "Menerima seluruh budaya asing tanpa terkecuali sebagai bagian dari proses modernisasi",
+      "B": "Mengutamakan nilai-nilai lokal dalam semua aspek kehidupan tanpa memperhatikan perubahan global",
+      "C": "Menyaring nilai-nilai asing yang masuk agar sesuai dengan nilai-nilai Pancasila sebelu diadopsi.",
+      "D": "Memprioritaskan perkembangan ekonomi melalui kerja sama internasional tanpa mempertimbangkan dampaknya pada budaya lokal",
+      "E": "Mendorong masyarakat untuk mengadopsi teknologi baru tanpa memikirkan pengaruhnya terhadap nilai-nilai kebangsaan"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 13,
+    "category": "TWK",
+    "question": "Perhatikan pernyataan-pernyataan berikut tentang peran warga negara dalam menjaga keamanan lingkungan:\n\n1. Berpartisipasi dalam sistem keamanan lingkungan (siskamling)\n2. Melaporkan aktivitas mencurigakan kepada pihak berwajib\n3. Mengikuti pelatihan pertahanan sipil\n4. Menjadi anggota organisasi kepemudaan\n5. Membantu korban bencana alam\n6. Mengawasi peredaran narkoba di lingkungan sekitar\n\nDari pernyataan di atas, yang termasuk peran warga negara dalam menjaga keamanan lingkungan adalah...",
+    "options": {
+      "A": "1,2,3,6",
+      "B": "2,3,4,5",
+      "C": "1,2,5,6",
+      "D": "3,4,5,6",
+      "E": "1,2,3,4"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+
+  {
+    "id": 14,
+    "category": "TWK",
+    "question": "Perhatikan pernyataan-pernyataan berikut tentang upaya memperkuat persatuan dan kesatuan bangsa:\n\n1. Menghormati keberagaman suku, agama, dan budaya\n2. Menggunakan bahasa Indonesia dalam komunikasi resmi\n3. Berpartisipasi dalam kegiatan gotong royong\n4. Mengutamakan kepentingan kelompok tertentu\n5. Mempelajari sejarah perjuangan bangsa\n6. Mengkritik kebijakan pemerintah secara destruktif\n\nDari pernyataan di atas, yang merupakan upaya memperkuat persatuan dan kesatuan bangsa adalah...",
+    "options": {
+      "A": "1,2,3,5",
+      "B": "2,3,4,6",
+      "C": "1,3,4,5",
+      "D": "2,4,5,6",
+      "E": "3,4,5,6"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+
+  {
+    "id": 15,
+    "category": "TWK",
+    "question": "Dalam era digital, ancaman terhadap kedaulatan negara dapat muncul dalam berbagai bentuk. Manakah di antara berikut ini yang merupakan pendekatan paling komprehensif dalam menghadapi ancaman siber terhadap infrastruktur kritis nasional?",
+    "options": {
+      "A": "Menutup seluruh akses internet pada infrastruktur kritis",
+      "B": "Menggunakan exclusively perangkat lunak dan perangkat keras buatan dalam negeri",
+      "C": "Menerapkan sistem pertahanan beriapis dengan kombinasi teknologl, SDM. dan kebijakan",
+      "D": "Membatasi akses infrastruktur kritis hanya pada jam kerja",
+      "E": "Mempekerjakan hacker internasional untuk melindungi sistem"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 16,
+    "category": "TWK",
+    "question": "Dalam upaya meningkatkan kesadaran bela negara di kalangan generasi muda. sebuah program nasional diusulkan Manakah di antara berikut ini yang paling efektif untuk mencapai tujuan tersebut sambil tetap menjaga nilai-nilai demokrasi dan HAM?",
+    "options": {
+      "A": "Mewajibkan seluruh pemuda mengikuti pelatihan militer dasar",
+      "B": "Menerapkan sistem poin sosial berbasis partisipasi dalam kegiatan nasionalis",
+      "C": "Mengintegrasikan nilai-nilai bela negara dalam kurikulum pendidikan dan kegiatan ekstrakurikuler",
+      "D": "Memberikan privilege khusus bagi pemuda yang menunjukkan semangat nasionalisme tinggi",
+      "E": "Membatasi akses media sosial yang dianggap menyebarkan nilai-nilai asing"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 17,
+    "category": "TWK",
+    "question": "Dalam upaya meningkatkan partisipasi masyarakat dalam pembangunan nasional, pemerintah daerah ingin melibatkan warga dalam perencanaan anggaran. Manakah di antara pendekatan berikut yang paling sesuai dengan semangat bela negara dan good governance?",
+    "options": {
+      "A": "Memberikan kewenangan penuh kepada tokoh masyarakat untuk menentukan alokasi anggaran",
+      "B": "Mengadakan musyawarah perencanaan pembangunan (Musrenbang) yang melibatkan berbagai elemen masyarakat",
+      "C": "Menyerahkan seluruh keputusan anggaran kepada tim ahli dari pemerintah pusat",
+      "D": "Mengalokasikan anggaran secara merata ke semua sektor tanpa mempertimbangkan prioritas",
+      "E": "Mengumumkan rencana anggaran final tanpa proses konsultasi publik"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 18,
+    "category": "TWK",
+    "question": "Perhatikan pernyataan-pernyataan berikut tentang ancaman terhadap ideologi negara:\n\n1. Penyebaran paham komunisme\n2. Gerakan separatisme\n3. Radikalisme agama\n4. Liberalisme ekonomi\n5. Fundamentalisme agama\n6. Sekularisme\n\nDari pernyataan di atas, yang dianggap sebagai ancaman serius terhadap ideologi Pancasila adalah...",
+    "options": {
+      "A": "1,2,3,5",
+      "B": "2,3,4,6",
+      "C": "1,3,5,6",
+      "D": "1,2,4,5",
+      "E": "3,4,5,6"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 19,
+    "category": "TWK",
+    "question": "Suatu ketika. Hatta memarahi sekretarisnya karena menggunakan tiga lembar kertas Sekretariat Negara untuk urusan kantor Wakil Presiden. dan menggantinya dengan uang dari kas pribadi Apa yang paling tepat menjelaskantindakan Hatta ini?",
+    "options": {
+      "A": "Seorang pemimpin harus menegakkan disipl in dalam penggunaan anggaran negara.",
+      "B": "Hatta ingin menunjukkan bahwa semua pejabat harus berhati-hati dalam menggunakan fasilitas negara.",
+      "C": "Tindakan ini mencerminkan komitmen Hatta terhadap pemisahan antara fasilitas negara dan kepentingan pribadi.",
+      "D": "Hatta menganggap pentingnya membayar kembali segala sesuatu yang digunakan secara pribadi dari uang negara.",
+      "E": "Menggunakan fasilitas negara secara berlebihan dapat mengurangi wibawa seorang pemimpin."
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 20,
+    "category": "TWK",
+    "question": "Ketika ajudannya bertanya mengapa Soekarno tidak melawan saat dijatuhkan dari jabatannya. ia menjawab bahwa ia tidak ingin terjadi perang saudara. Apa pelajaran utama yang dapat diambil dari sikap Soekarno ini?",
+    "options": {
+      "A": "Seorang pemimpin yang bijaksana lebih baik menghindari konflik daripada mempertahankan kekuasaan.",
+      "B": "Pengorbanan diri demi menjaga perdamaian adalah ciri khas seorang pemimpin yang mencintai rakyatnya.",
+      "C": "Pemimpin yang kuat akan selalu mempertimbangkan risiko yang mungkin terjadi pada bangsa.",
+      "D": "Menyerah dalam situasi sulit adalah tanda bahwa pemimpin memahami keterbatasan dirinya.",
+      "E": "Seorang pemimpin harus mengutamakan keharmonisan meskipun harus meninggalkan jabatannya."
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 21,
+    "category": "TWK",
+    "question": "walaupun bertitle menteri. H. Agus Salin hidup dalam kesederhanaan dan tetap tinggal dirumah kontrakkan yang atapnya bocor Ketika hujan. Apa pelajaran utama yang dapat diambil dari sikap Agus Salim ini?",
+    "options": {
+      "A": "Seseorang Menteri harus selalu hidup sederhana agar bisa menjadi teladan bagi masyarakat.",
+      "B": "Hidup sederhana menunjukkan bahwa seseorang pejabat tidak memanfaatkan jabatannya untuk memperkaya diri.",
+      "C": "Seorang pejabat sebaiknya tidak peduli pada fasilitas peribadi demi mengutamakan tugas negara",
+      "D": "Kesederhanaan adalah cara Agus Salim untuk menunjukkan ketidakpeduliaannya pada harta dunia.",
+      "E": "Kesederhanaan adalah cara Agus Salim untuk menunjukkan ketidakpeduliaannya pada harta dunia. "
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 22,
+    "category": "TWK",
+    "question": "Selama pengasingannya di Belanda, Ki Hajar Dewantara memanfaatkan kesempatan tersebut untuk mendalami masalah Pendidikan dan memperoleh Europeesche Akte. Apa makna dari Tindakan Ki Hajar Dewantara ini?",
+    "options": {
+      "A": "Menunjukkan bahwa kesempatan di negara asing harus dimanfaatkan semaksimal mungkin.",
+      "B": "Menggunakan Pendidikan barat untuk membantu meningkatkan kualitas Pendidikan di Indonesia.",
+      "C": "Mencari pengalaman agar dapat lebih mudah beradaptasi dengan system Pendidikan modern.",
+      "D": "Menyiapkan diri dengan pengetahuan dan keterampilan untuk memperjuangkan Pendidikan di tanah air.",
+      "E": "Memastikan bahwa pendidikan Indonesia tidak tertinggal dari perkembangan di negara lain. "
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 23,
+    "category": "TWK",
+    "question": "Setalah menilang Sri Sultan Hamengku Buwono IX, Brigadir Royadin dipindahkan bertugas ke Yogyakarta dan mendapatkan kenaikan pangkat. Apa alasan utama Sri Sultan memberikan apresiasi tersebut?",
+    "options": {
+      "A": "Menghargai keberanian polisi dalam menegakkan aturan meskipun berhadapan dengan tokoh penting.",
+      "B": "Ingin menunjukkan bahwa seorang pemimpin yang baik ahrus selalu menghargai kerja keras bawahannya.",
+      "C": "Mengajarkan kepada masyarakat bahwa ketegasan adalah hal yang harus dihargai oleh setiap pemimpin.",
+      "D": "Memberikan contoh kepada apparat lain agar berani menjalankan tugasnya tanpa takut kepada atasan.",
+      "E": "Memastikan bahwa polisi yang tegas dalam bertugas mendapatkan tempat yang lebih baik. "
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 24,
+    "category": "TWK",
+    "question": "Mohammad Hatta dikenal selalu menolak menggunakan fasilitas negara untuk keperluan pribadi. Apa yang paling mencerminkan prinsip Hatta dalam sikap ini?",
+    "options": {
+      "A": "Hatta tidak ingin terlihat hidup mewah di mata rakyat.",
+      "B": "Seorang pemimpin harus bersikap adil dan tidak memanfaatkan jabatannya untuk keuntungan pribadi.",
+      "C": "Menggunakan fasilitas negara harus sesuai dengan ketentuan hukum yang berlaku.",
+      "D": "Pemimpin yang baik harus selalu hidup sederhana sebagai contoh bagi masyarakat.",
+      "E": "Menolak fasilitas negara menunjukkan bahwa Hatta lebih menghargai kemandirian."
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 25,
+    "category": "TWK",
+    "question": "Dalam menghadapi Gerakan separtisme disuatu daerah. Pendekatan yang paling efektif berdasarkan semangat nasionalisme adalah…..",
+    "options": {
+      "A": "Mengirim pasukan melitir dalam jumlah besar",
+      "B": "Mengabaikan tuntutan masyarakat setempat",
+      "C": "Melakukan dialog dan pembangunan berkelanjutan",
+      "D": " Menutup akses informasi ke daerah tersebut ",
+      "E": "Menghentikan seluruh program pembangunan"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 26,
+    "category": "TWK",
+    "question": "Menjelang pemilu, banyak warga yang apatis dan tidak mau berpartisipasi. Cara terbaik untuk meningkatkan partisipasi sebagai wujud nasionalisme adalah...",
+    "options": {
+      "A": "Memaksa warga untuk memilih",
+      "B": "Memberikan sanksi bagi yang tidak memilih",
+      "C": "Melakukan edukasi tentang pentingnya pertisipasi dalam demokrasi",
+      "D": "Mengabaikan warga yang tidak mau memilih",
+      "E": "Mengurangi jumlah TPS"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 27,
+    "category": "TWK",
+    "question": "Maraknya tren budaya asing di kalangan remaja telah mempengaruhi gaya hidup mereka. Sikap yang tepat dalam menghadapi fenomena ini adalah...",
+    "options": {
+      "A": "Melarang semua bentuk budaya asing",
+      "B": "mengembangkan budaya lokal yang adaptif dan menarik",
+      "C": "memaksakan budaya tradisonal tanpa inovasi",
+      "D": "membatasi akses remaja terhadap informasi",
+      "E": "mengabaikan perkembangan budaya"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 28,
+    "category": "TWK",
+    "question": "Program pelestarian lignkungan berbasisi kearifan lokal telah berhasil menjaga kelestarian hutan disuatu daerah. Tindakan konkret mencerminkan cinta tanah air dalam konteks ini adalah...",
+    "options": {
+      "A": "mengabaikan kondisi lingkungan sekitar",
+      "B": "menerapkan teknologi tanpa mempertimbangkan kondisi lokal",
+      "C": "mengintegrasikan nilai kearifan lokal dalam konservasi modern",
+      "D": "menolak semua bentuk pembangunan",
+      "E": "membatasi akses masyarakat ke hutan"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 29,
+    "category": "TWK",
+    "question": "Sebuah negara mengadakan festival internasional yang mengangkat tema budaya nusantara. Langkah strategis untuk memaksimalkan diplomasi Indonesia dalam event tersebut adalah...",
+    "options": {
+      "A": "menampilkan perpaduan seni tradisional dengan kontemporer",
+      "B": "Mengirimkan delegasi dari satu daerah unggulan saja",
+      "C": "membatasi interaksi dengan peserta dari negara lain",
+      "D": "menolak masukan dan pengamat budaya internasional",
+      "E": "menampilkan budaya yang sudah dimodifikasi total"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 30,
+    "category": "TWK",
+    "question": "Implementasi nilai-nilai Pancasila dalam memperkuat nasionalisme di era digital dapat diwujudkan melalui...",
+    "options": {
+      "A": "membatasi penggunaan media sosial sepenuhnya",
+      "B": "menyebarkan konten positif tentang keberagaman Indonesia",
+      "C": "menolak semua pengaruh teknologi modern",
+      "D": "menutup diri dari perkembangan global",
+      "E": "mengabaikan tantangan era digital"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 31,
+    "category": "TIU",
+    "question": "Klorofil: Fotosintesis = Hemoglobin:…..",
+    "options": {
+      "A": "Darah",
+      "B": "Oksigen",
+      "C": "Pernapasan",
+      "D": "Hati",
+      "E": "Enzim"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 32,
+    "category": "TIU",
+    "question": "Pada dompet terdapat uang dan kartu identitas. Hubungan objek yang setara dengan kalimat diatas adalah…...",
+    "options": {
+      "A": "Pada meja terdapat lampu dan buku",
+      "B": "Pada tas terdapat gesper dan resleting",
+      "C": "pada gembok terdapat kunci dan pengait",
+      "D": "pada bank terdapat uang dan tabungan",
+      "E": "pada koper terdapat pakaian dan sepatu"
+    },
+    "correctAnswer": "E",
+    "points": 5
+  },
+  {
+    "id": 33,
+    "category": "TIU",
+    "question": "Sabun terdiri dari minyak dan alkali. Hubungan objek yang setara dengan kalimat di atas adalah.....",
+    "options": {
+      "A": "computer terdiri dari monitor dan keyboard",
+      "B": "baju tediri dari lengan dan kerah",
+      "C": "mobil terdiri dari besi dan ban",
+      "D": "deterjen terdiri dari piring dan gelas",
+      "E": "beton terdiri dari semen dan air"
+    },
+    "correctAnswer": "E",
+    "points": 5
+  },
+  {
+    "id": 34,
+    "category": "TIU",
+    "question": "DI kafe. Asri dan teman-temannya tertawa terbahak-bahak. Kalimat tersebut setara dengan.....",
+    "options": {
+      "A": "Di kebun. Nia dan adiknya sedang menanam bunga",
+      "B": "Di rumah. Pak Arman dan istrinya sedang makan nasi goreng",
+      "C": "Di kamar. Sintan dan adik-adiknya tertidur pulas",
+      "D": "Di lapangan, para siswa sedang bermain layangan",
+      "E": "Di ruang kelas. Ibu Rita sedang mengajar mata pelajaran matematika"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 35,
+    "category": "TIU",
+    "question": "Jika penelitian sudah selesai dilakukan, maka peneliti akan segera mendapatkan gelar. Jika peneliti akan segera mendapatkan gelar, maka peneliti tersebut akan di wisuda pada tahun ini. Simpulan yang paling tepat adalah.....",
+    "options": {
+      "A": "jika peneliti akan segera mendapatkan gelar, maka penelitian belum dilakukan",
+      "B": "peneliti tidak akan di wisuda tahun ini jika gelar sudah didapat",
+      "C": "jika penelitian sudah dilakukan, maka peneliti tidak akan di wisuda tahun ini",
+      "D": "penelitian belum selesai dilakukan atau peneliti akan di wisuda tahun ini",
+      "E": "jika peneliti diwisuda tahun ini, maka penelitian sudah selesai dilakukan"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 36,
+    "category": "TIU",
+    "question": "semua hewan di rumah Pak Joko adalah kucing. Semua anak suka hewan. Rina membawa burung.",
+    "options": {
+      "A": "Rumah Pak Joko ada burung",
+      "B": "Rina tidak suka hewan",
+      "C": "Rina tidak suka kucing",
+      "D": "Hewan yang dibawa rina bukan dari rumah pak Joko",
+      "E": "Anak tidak suka kucing"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 37,
+    "category": "TIU",
+    "question": "Semua kendaraan yang memiliki mesin yang baik dapat berjalan dengan lancer. Kendaraan Rudi tidak dapat berjalan dengan lancar.Berdasarkan dua pernyataan diatas. Simpulan yang tepat adalah…..",
+    "options": {
+      "A": "Kendaraan Rudi memiliki mesin yang buruk",
+      "B": "Kendaraan Rudi memiliki mesin yang baik",
+      "C": "Kendaraan Rudi tidak memiliki mesin sama sekali",
+      "D": "Kendaraan Rudi memiliki mesin yang baik atau tidak dapat berjalan",
+      "E": "Kendaraan Rudi tidak dapat berjalan karena mesin yang baik"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 38,
+    "category": "TIU",
+    "question": "Saat berkunjung ke sebuah taman petualangan. Rudi memulai petualangannya dari pintu masuk utama. Rute 1 adalah rute membawa Rudi ke area permainan. Yang terhubung dengan rute 2 (area air) dan rute 3 (area hewan). Setelah menjelajahi. Rudi menemukan bahwa rute 3 terhubung dengan rute 2 (area air). Rute 4 (area piknik), dan rute 5 (area flower garden). Kemudian, rute 5 terhubung dengan rute 6 (area observasi burung). Sedangkan rute 4 (area piknik) terhubung dengan rute 6 (area observasi burung) dan rute 7 (area taman bunga). Rute 6 dekat dengan pintu keluar. Berapa maksimal rute yang dapat dilalui rudi dalam sekali jalan?",
+    "options": {
+      "A": "4 rute",
+      "B": "5 rute",
+      "C": "6 rute",
+      "D": "7 rute",
+      "E": "8 rute"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 39,
+    "category": "TIU",
+    "question": "Di sebuah pesta ulang tahun. Empat sahabat andi, budi, citra dan dedi duduk mengelilingi meja segi empat untuk makan malam bersama. Setiap sisi meja di tempati satu orang. Berdasarkan informasi berikut. Tentukan posisi duduk mereka.Andi duduk tepat di sebelah kanan Citra Budi tidak duduk bersebelahan dengan Citra Dedi duduk di hadapan Andi Dengan memperhatikan aturan tersebut, siapakah yang duduk disebelah kiri budi?",
+    "options": {
+      "A": "Andi",
+      "B": "Citra",
+      "C": "Dedi",
+      "D": "Budi duduk di sudut kosong",
+      "E": "Tidak ada yang benar"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 40,
+    "category": "TIU",
+    "question": "Doni mengunjungi kebun binatang yang memiliki beberapa kendang hewan yang diatur secara berurutan. Di dekat pintu masuk terdapat kandang burung yang terhubung engan kandang reptile juga terhubung dengan kandang amfibi dan kandang mamalia. Kanda primate terhubung dengan kandang mamalia dan kandang amfibi. Kandang ikan yang dekat dengan pintu keluar terhubung dengan kandang amfibi dan kandang primate. Berapa banyak jalur berbeda yang dapat diilih Doni dari pintu masuk sampai pintu keluar tanpa Kembali ke kandang sebelumnya?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 41,
+    "category": "TIU",
+    "question": "Di sebuah kelas terdapat empat siswa: Andi, Budi, Cici dan Dini. Berikut adalah informasi mengenai nilai mereka dalam ujian matematika: Nilai Andi lebih tinggi dari pada nilai Budi, tetapi lebih rendah dari pada nilai Cici Nilai Dini sama dengan nilai Budi ditambah 5 Cici mendapatkan nilai tertinggi di kelas. Sedangkan Budi mendapatkan nilai terendah Total nilai mereka adalah 350 Nilai budi adalah 73. Urutan nilai siswa dari tertinggi hingga terendah adalah…..",
+    "options": {
+      "A": "Cici – Andi – Dini - Budi",
+      "B": "Andi – Dini – Budi - Cici",
+      "C": " Cici - Dini - Andi – Budi",
+      "D": " Dini - Budi - Cici – Andi",
+      "E": " Cici - Dini - Budi - Andi "
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+
+  {
+    "id": 42,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal42.png",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 43,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal43.png",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 44,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal44.png",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 45,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal45.png",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 46,
+    "category": "TIU",
+    "question": "101, 111, 122, 107, 111, 116, 113, 111, 110, ...",
+    "options": {
+      "A": "107",
+      "B": "109",
+      "C": "111",
+      "D": "117",
+      "E": "119"
+    },
+    "correctAnswer": "E",
+    "points": 5
+  },
+  {
+    "id": 47,
+    "category": "TIU",
+    "question": "-17, -14, -8, -5, 1, ...",
+    "options": {
+      "A": "4, 7, 13",
+      "B": "2, 10, 13",
+      "C": "4, 8, 11",
+      "D": "7, 11, 16",
+      "E": "7, 13, 20"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 48,
+    "category": "TIU",
+    "question": "..., 31, 41, 26, 11, 21, 31, 16, 1",
+    "options": {
+      "A": "16",
+      "B": "21",
+      "C": "46",
+      "D": "56",
+      "E": "71"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 49,
+    "category": "TIU",
+    "question": "40 petani dapat menyelesaikan panen di sebuah ladang dalam waktu 16 hari. Jika 8 petani berhenti bekerja berapa hari tambahan yang diperlukan untuk menyelesaikan panen ladang tersebut?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+
+  {
+    "id": 50,
+    "category": "TIU",
+    "question": "sebuah proyek pembangunan jalan dikerjakan oleh 30 pekerja dan direncanakan selesai dalam waktu 4 bulan. Setelah bekerja selama 60 hari. 20 pekerja berhenti bekerja. Berapa hari total pekerjaan tersebut akan selesai?",
+    "options": {
+      "A": "50 hari",
+      "B": "100 hari",
+      "C": "150 hari",
+      "D": "180 hari",
+      "E": "240 hari"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+
+  {
+    "id": 51,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal51.png",
+    "options": {
+      "A": "x < y",
+      "B": "x > y",
+      "C": "x = y",
+      "D": "x = 5y",
+      "E": "Hubungan x dan y tidak dapat ditentukan"
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 52,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal52.png",
+    "options": {
+      "A": "x = y",
+      "B": "x = 2y",
+      "C": "x < y",
+      "D": "x < 2y",
+      "E": "x > 2y"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 53,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal53.png",
+    "options": {
+      "A": "Samsung",
+      "B": "LG",
+      "C": "Sony",
+      "D": "Polytron",
+      "E": "Sharp"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 54,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal54.png",
+    "options": {
+      "A": "Januari",
+      "B": "Februari",
+      "C": "Maret",
+      "D": "April",
+      "E": "Mei"
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 55,
+    "category": "TIU",
+    "question": "Seorang pedangan sepatu mendapatkan keuntungan sebesar 25% dari harga jualnya pada bulan mei. Jumlah sepatu yang terjual per minggu adalah 80 pasang, 84 pasang, 89 pasang dan 95 pasang. Jika satu pasang sapatu terjual dengan harga Rp. 70.000.000. maka rata-rata keuntungan per minggu adalah…..",
+    "options": {
+      "A": "Rp. 225.500.00",
+      "B": " Rp. 252.500.00",
+      "C": " Rp. 255.500.00",
+      "D": " Rp. 1.522.500.00",
+      "E": " Rp. 525.500.00"
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 56,
+    "category": "TIU",
+    "question": "Sebuah kapal berangkat dari Pelabuhan A menuju Pelabuhan B dengan kecepatan rata-rata 40 km/jam. Jarak antara Pelabuhan A dan Pelabuhan B adalah 120 km. jika kapal berhenti selama 30 menit di tengah perjalanan, dan kapal tiba di Pelabuhan B pada pukul 14.20, pada pukul berapa kapal berangkat dari Pelabuhan A?",
+    "options": {
+      "A": "10.30",
+      "B": "10.50",
+      "C": "11.00",
+      "D": "11.20",
+      "E": " 11.30"
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+
+  {
+    "id": 57,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal57.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 58,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal58.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "E",
+    "points": 5
+  },
+  {
+    "id": 59,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal59.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 60,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal60.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 61,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal61.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "D",
+    "points": 5
+  },
+  {
+    "id": 62,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal62.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 63,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal63.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "A",
+    "points": 5
+  },
+  {
+    "id": 64,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal64.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "B",
+    "points": 5
+  },
+  {
+    "id": 65,
+    "type": "image",
+    "category": "TIU",
+    "questionImage": "soal65.jpg",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "correctAnswer": "C",
+    "points": 5
+  },
+  {
+    "id": 66,
+    "category": "TKP",
+    "question": "Beberapa warga menyampaikan keluhan bahwa proses pelayanan di loket tempat Anda bekerja terlalu lambat dibandingkan loket lain. Sebagai petugas pelayanan, apa yang sebaiknya Anda lakukan ?...",
+    "options": {
+      "A": "Mempercepat proses dengan mengurangi verifikasi dokumen",
+      "B": "Meminta warga untuk menyampaikan keluhan secara tertulis ke bagian pengaduan",
+      "C": "Menjelaskan bahwa setiap layanan memiliki prosedur dan durasi yang berbeda",
+      "D": "Berkonsultasi dengan rekan di loket lain tentang cara mempercepat pelayanan",
+      "E": "Mengevaluasi proses kerja, mengidentifikasi penyebab keterlambatan, dan melakukan perbaikan sistem pelayanan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 67,
+    "category": "TKP",
+    "question": "Anton adalah petugas pelayanan yang menghadapi seorang warga yang sangat membutuhkan surat keterangan untuk keperluan pekerjaan, namun tidak membawa KTP asli sebagai syarat utama. Apa yang sebaiknya dilakukan Anton ?...",
+    "options": {
+      "A": "Memberikan layanan dengan hanya menggunakan fotokopi KTP",
+      "B": "Menerima dokumen pengganti yang dimiliki, memverifikasi identitas melalui database, dan berkonsultasi dengan atasan untuk solusi",
+      "C": "Meminta warga tersebut kembali lagi besok dengan membawa KTP asli",
+      "D": "Menyarankan untuk membuat surat kehilangan dan kepolisian terlebih dahulu",
+      "E": "Menolak memberikan layanan karena tidak memenuhi syarat"
+    },
+    "scoringtable": {
+      "A": 1,
+      "B": 5,
+      "C": 3,
+      "D": 4,
+      "E": 2
+    },
+    "points": "variable"
+  },
+  {
+    "id": 68,
+    "category": "TKP",
+    "question": "Warga sering kebingungan dengan prosedur pengurusan izin usaha yang memiliki banyak tahapan. Sebagai petugas pelayanan, apa yang sebaiknya Anda lakukan untuk membantu?",
+    "options": {
+      "A": "Menyarankan untuk menggunakan jasa pihak ketiga",
+      "B": "Menyerahkan brosur prosedur yang sudah ada",
+      "C": "Memberikan nomor telepon yang bisa dihubungi jika ada kesulitan",
+      "D": "Menjelaskan secara lisan saat warga bertanya",
+      "E": "Membuat alur visual sederhana. memberikan contoh pengrsian, dan menjelaskan tahap demi tahap dengan bahasa yang mudah dipahami"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 69,
+    "category": "TKP",
+    "question": "Seorang warga tidak bisa melengkapi salah satu syarat berupa surat pengantar RTRW karena sedang ada konflik dengan pengurus setempat. Sebagai petugas pelayanan, apa yang sebaiknya Anda lakukan ?...",
+    "options": {
+      "A": "Memproses berkas tanpa surat pengantar",
+      "B": "Menyarankan untuk pindah domisili",
+      "C": "Menolak berkas dan meminta menyelesaikan konflik terlebih dahulu",
+      "D": "Meminta bantuan petugas keamanan untuk mendampingi warga mengurus surat pengantar",
+      "E": "Menawarkan untuk berkoordinasi dengan kelurahan untuk alternatif surat keterangan dan membantu mediasi jika diperlukan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 70,
+    "category": "TKP",
+    "question": "Anda menerima banyak keluhan dari warga tentang prosedur pelayanan yang terlalu berbelit-belit. Sebagai petugas yang bertanggung jawab. apa yang akan Anda lakukan?",
+    "options": {
+      "A": "Memberikan keringanan prosedur untuk kasus-kasus tertentu",
+      "B": "Menyarankan warga untuk menyampaikan keluhan ke pusat pengaduan",
+      "C": "Menjelaskan bahwa prosedur tersebut sudah sesuai standar",
+      "D": "Membuat pengumuman tentang alasan dari setiap prosedur",
+      "E": "Mengumpulkan data keluhan, menganalisis titik masalah membuat usulan perbalkan sistem dan menyampalkannya ke pimpinan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 71,
+    "category": "TKP",
+    "question": "Anda adalah perawat di bangsal rumah sakit. Anda mendapati seorang pasien yang rewel dan mengeluh terus- menerus mengenai pelayanan rumah sakit. sementara pasien lain juga membutuhkan perhatian Bagaimana Anda menangani situasi ini?",
+    "options": {
+      "A": "Mengabaikan keluhan pasien tersebut dan fokus pada pasien lain yang lebih kooperatif.",
+      "B": "Memberikan perhatian ekstra kepada pasien yang rewel untuk menenangkannya, meskipun harus mengorbankan waktu untuk pasien lain.",
+      "C": "Melaporkan perilaku pasien tersebut kepada dokter yang bertanggung jawab untuk mendapatkan solusi.",
+      "D": "Meminta bantuan perawat lain untuk menangani pasien yang rewel sementara Anda fokus pada pasien lain.",
+      "E": "Mencoba berblcara dengan pasien tersebut untuk memahami akar masalahnya, sambil tetap memperhatlkan kebutuhan pasien lain."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 72,
+    "category": "TKP",
+    "question": "Anda adalah koordinator program sosial di sebuah terdaftar pemerintah yang bertanggung jawab untuk mendistribusikan bantuan kepada masyarakat kurang mampu. Setelah pelaksanaan program terbaru, Anda menerima sejumlah umpan balik dari penerima bantuan yang menyatakan ketidakpuasan mereka mengenai cara distribusi bantuan yang tidak adil. Beberapa penerima mengeluhkan bahwa mereka tidak mendapatkan bantuan sesuai dengan yang dijanjikan, sementara yang lain menyatakan bahwa kriteria penerimaan tidak transparan. Anda juga mengetahui bahwa beberapa anggota masyarakat yang tidak memenuhi syarat mendapatkan bantuan telah berusaha untuk mengelabui proses. Menghadapi situasi ini, Anda menyadari bahwa jika tidak ditangani dengan tepat, ini dapat mengakibatkan krisis kepercayaan di masyarakat dan merusak reputasi terdaftar. Dalam konteks ini, tindakan yang seharusnya Anda ambil adalah:...",
+    "options": {
+      "A": "Mengabaikan umpan balik tersebut dan berpegang pada prosedur yang ada karena sudah dilakukan sesuai ketentuan",
+      "B": "Mengembangkan forum diskusi online di mana penerima bantuan dan masyarakat dapat menyampaikan keluhan dan aspirasi mereka serta menggunakan survei untuk mendapatkan data lebih akurat tentang kepuasan program",
+      "C": "Menyusun laporan analisis yang mendalam tentang pelaksanaan program, termasuk umpan balik dari masyarakat, dan mengajukan rekomendasi perbaikan kepada manajemen tanpa melibatkan penerima bantuan",
+      "D": "Menghentikan sementara program disaat evaluasi dan melakukan evaluasi menyeluruh, melibatkan pihak ketiga untuk memberikan perspektif objektif",
+      "E": "Mengadakan pertemuan terbuka dengan penerima bantuan dan para pemangku kepentingan lainnya untuk mendengarkan keluhan mereka secara langsung dan mencari solusi bersama"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 73,
+    "category": "TKP",
+    "question": "Anda adalah kepala layanan pelanggan di sebuah lembaga pemer intah yang baru-baru Ini menghadapi kritik tajam dari masyarakat terkait kualitas layanan yang diberikan Banyak pengguna layanan melontarkan keluhan yang emosional di media sosial termasuk tuduhan diskriminasi dan perlakuan tidak adil Situasi ini mengakibatkan meningkatnya ketidakpercayaan masyarakat terhadap lembaga dan potensi dampak negatif terhadap ceputasi lembaga Pimpinan anda meminta anda untuk segera mengatasi masalah ini dengan langkah yang strategis dan efektif Dalam konteks ini. tindakan yang seharusnya anda ambil adalah...",
+    "options": {
+      "A": "Mengabaikan sebagian besar keluhan di media sosial dan f okus pada menjawab pertanyaan yang lebih spesihk dari pelanggan yang datang langsung.",
+      "B": "Mengeluarkan pernyataan resmi yang merespons semua kntik dengan tegas dan menjelaskan bahwa tuduhan tersebut tidak berdasar.",
+      "C": "Meluncurkan kampanye media sosial untuk menonjolkan keberhasilan lembaga sambil tetap mengabaikan keluhan yang ada. dengan harapan masyarakat akan lupa",
+      "D": "Mengumpulkan data dari semua keluhan yang ditenma dan menyusun laporan analisis yang detail untuk disampaikan kepada manajemen. tanpa memberikan respons publik.",
+      "E": "Mengadakan forum dialog terbuka. baik secara daring maupun luring, di mana masyarakat dapat menyampalkan keluhan dan saran, sambll menyediakan akses ke petugas yang dapat memberlkan penjelasan lebih lanjut"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 74,
+    "category": "TKP",
+    "question": "Anda akan mempresentasikan hasil proyek tim kepada jajaran manajemen senior. Beberapa anggota tim khawatir presentasi tidakakan mencakup semua poin penting Sebagai koordinator tim. apa yangsebaiknya anda lakukan?",
+    "options": {
+      "A": "Mendelegasikan tugas presentasi kepada anggota tim yang lebih senior",
+      "B": "Fokus pada pencapaian positif dan menghindari pembahasan tantanganyang dihadapi",
+      "C": "Membuat presentasi sendiri karena Anda yang paling memahami keseluruhan proyek",
+      "D": "Meminta setiap anggota tim untuk mempresentasikan bagiannya masing-masing",
+      "E": "Mengumpulkan masukan dan tim, membuat draft presentasi melakukan simulasi dengan tim dan menyempurnakan berdasarkan umpan balik"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 75,
+    "category": "TKP",
+    "question": "Anda mengetahui bahwa dua rekan kerja sedang berkonflik karena perbedaan metode kerja. yang mulai mempengaruhi kinerja tim. Sebagai ketua tim. apa tindakan yang sebaiknya anda ambil?",
+    "options": {
+      "A": "Membiarkan mereka menyelesaikan masalah sendiri",
+      "B": "Memindahkan salah satu dari mereka ke tim lain",
+      "C": "Menegur keduanya dalam rapat tim",
+      "D": "Membuat aturan baru tentang metode kerja tanpa melibatkan mereka",
+      "E": "Mengadakan diskusi pribadi dengan masing-masing pihak. kemudian memfasilitasi dialog bersama untuk mencari titik temu"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 76,
+    "category": "TKP",
+    "question": "Dalam rapat evaluasi. rekan kerja Anda mengkritik keras ide yang Anda usulkan. Bagaimana cara terbaik untuk menanggapinya?",
+    "options": {
+      "A": "Mengabaikan kritik tersebut dan tetap melanjutkan dengan ide awal",
+      "B": "Membalas kritik dengan menunjukkan kelemahan ide rekan tersebut",
+      "C": "Menarik usulan Anda untuk menghindari konflik",
+      "D": "Meminta pimpinan untuk memutuskan ide siapa yang lebih baik",
+      "E": "Mendengarkan dengan seksama, mengucapkan terima kasih atas masukannya, dan mendiskusikan cara memperbaiki usulan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 77,
+    "category": "TKP",
+    "question": "Setelah rapat tim memutuskan untuk menggunakan sistem baru, Rudi, salah satu anggota tim senior, terhhat tidak puas dan mulai bersikap pasif dalam pelaksanaan. Sebagai koordinator. apa yang sebaiknya Anda lakukan?",
+    "options": {
+      "A": "Membiarkan sikapnya karena keputusan sudah final",
+      "B": "Melaporkan sikapnya ke atasan",
+      "C": "Memberikan tugas yang lebih sedikit kepadanya",
+      "D": "Mengingatkan bahwa dia harus profesional dan menerima keputusan tim",
+      "E": "Mengajak diskusi pribadi untuk memahami kekhawatirannya, mendengarkan masukan, dan mencari cara agar implementasi berjalan lebih baik"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 78,
+    "category": "TKP",
+    "question": "Tim Anda terdiri dari anggota dengan berbagai latar belakang usia. pendidikan. dan pengalaman kerja. Beberapa anggota cenderung mendominasi diskusi tim. Sebagai koordinator, apayang sebaiknya Anda lakukan?",
+    "options": {
+      "A": "Membiarkan yang aktif terus mendominasi karenakontribusinya bagus",
+      "B": "Hanya meminta pendapat dari anggota senior",
+      "C": "Membagi tim menjadi kelompok-keiompok kecil berdasarkan kesamaan latar belakang",
+      "D": "Menegur anggota yang terialu mendominasi",
+      "E": "Mengatur sistem diskusi yang memberikan kesempatan bicara merata. aktif meminta pendapat anggota yang lebih pendiam. dan menciptakan lingkungan yang inklusrf"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 79,
+    "category": "TKP",
+    "question": "Saat membutuhkan data dari instansi lain. Anda memanfaatkan jejaring kerja yang sudah Anda bangun untuk mempercepat proses pengumpulan data. Langkah apa yang akan Anda ambil?",
+    "options": {
+      "A": "Mengajukan permintaan resmi melalui saluran birokrasi. dengan menyebutkan kontak Anda di instansi tersebut",
+      "B": "Meminta rekan kerja yang memiliki hubungan baik dengan instansi tersebut untuk membantu",
+      "C": "Mengatur pertemuan informal dengan perwakilan instansi untuk mendiskusikan kebutuhan data",
+      "D": "Menawarkan pertukaran data atau bantuan timbal balik untuk memudahkan proses",
+      "E": "Menghubungi langsung petugas yang Anda kenal di instansi tersebut untuk meminta bantuan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 80,
+    "category": "TKP",
+    "question": "Anda adalah kepala departemen di sebuah lembaga non-pemerintah yang berfokus pada pengembangan masyarakat. Dalam rangka melaksanakan program baru. anda pertu membangun jejaring kerja dengan berbagai organisasi, baik lokal maupun internasional. untuk mendapatkan dukungan dan sumber daya. Namun, anda menyadari bahwa beberapa organisasi yang ingin Anda ajak bekerja sama memiliki kepentingan yang berbeda. dan beberapa di antaranya memiliki reputasi yang dipertanyakan. Apa pendekatan strategis yang akan anda ambil untuk membangun jejaring kerja yang efektif dan berkelanjutan. sambil memastikan bahwa program anda tidak terpengaruh oleh potensi konfiik kepentingan?",
+    "options": {
+      "A": "Memfokuskan upaya pada membangun jejaring dengan organisasi besar. sementara mengabaikan potensi kolaborasi dengan organisasi lokal yang lebih kecil.",
+      "B": "Membangun jejaring dengan mengandalkan kontak pribadi dan relasi yang sudah ada, tanpa melakukan penilaian mendalam tentang mitra potensial.",
+      "C": "Fokus pada menjalin hubungan hanya dengan organisasi yang memiliki reputasi baik dan mengabaikan yang lainnya, meskipun mereka memiliki sumber daya yang berharga.",
+      "D": "Mengumpulkan informasi tentang semua organisasi yang ingin dtajak kerja sama, tetapi tidak melakukan pendekatan langsung sampai anda mendapatkan persetujuan dari manajemen.",
+      "E": "Mengadakan pertemuan awal dengan semua caton mitra untuk mendiskusikan visi, misi, dan nilai-nilai masing-masing, serta mencari kesamaan untuk kolaborasi."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 81,
+    "category": "TKP",
+    "question": "Anda adalah manajer di sebuah lembaga pemerintah yang bertanggung jawab untuk implementasi kebijakan publik baru yang bertujuan meningkatkan akses layanan kesehatan. Setelah enam bulan berjalan. anda menerima berbagai laporan yang menunjukkan bahwa kebijakan ini tidak diterapkan secara merata di seluruh daerah, dengan beberapa daerah mengalami kekurangan layanan yang signifikan. Sementara itu. manajemen menginginkan laporan akhir yang komprehensif tentang efektivitas kebijakan ini dalam waktu dekat. Apa langkah-langkah sistematis yang akan anda ambil untuk mengevaluasi efektivitas kebijakan ini dan memastikan bahwa temuan anda dapat digunakan untuk perbaikan kebijakan di masa depan?",
+    "options": {
+      "A": "Menyatakan bahwa kebijakan telah berhasil diterapkan dan melaporkannya kepada manajemen tanpa mengumpulkan data lebih lanjut.",
+      "B": "Menyusun laporan berdasarkan persepsi media dan opini publik tanpa mengumpulkan data empirisdari lapangan.",
+      "C": "Mengadakan pertemuan dengan tim manajemen untuk mendiskusikan hasil awal dan menyusun rencana tindak lanjut berdasarkan umpan balik dan laporan masyarakat.",
+      "D": "Mengembangkan survei yang dirancang khusus untuk daerah-daerah yang dilaporkan bermasalah dan melakukan evaluasi terfokus tanpa mempertimbangkan daerah lainnya",
+      "E": "Melakukan analysis komprehensif dengan mengumpulkan data kuantitatif dan kualitatif dan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 82,
+    "category": "TKP",
+    "question": "Sebagai staff keuangan, Anda bertanggung jawab menyusun laporan realisasi anggaran setiap tanggal 5. Beberapa bulan terakhir, data dari unit terkait sering terlambat sehingga mempengaruhi ketepatan waktu laporan. Apa yang sebaiknya Anda lakukan?",
+    "options": {
+      "A": "Menggunakan data estimasi untuk unit yang terlambat agar laporan tetap tepat waktu",
+      "B": "Melaporkan keterlambatan data ke pimpinan untuk ditindaklanjuti secara struktural",
+      "C": "Membuat timeline mundur dan mengingatkan unit terkait sesuai jadwal yang ditetapkan",
+      "D": "Membuat format standar pelaporan yang memudahkan unit lain mengisi datanya",
+      "E": "Menyusun SOP pengumpulan data lintas unit dengan sistem monitoring yang terukur"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 83,
+    "category": "TKP",
+    "question": "Atasan memberikan target penyelesaian berkas 50% lebih tinggi dari biasanya karena adanya backlog yang signifikan. Bagaimana Anda menyikapi target tersebut?",
+    "options": {
+      "A": "Fokus pada penyelesaian berkas yang mudah untuk mencapai target kuantitas",
+      "B": "Mendelegasikan sebagian tugas kepada rekan kerja yang lebih junior",
+      "C": "Mengajukan penambahan jam kerja untuk mengejar target yang drtetapkan",
+      "D": "Membuat rencana kerja detail dengan pembagian target harian yang terukur",
+      "E": "Menganalisis proses kerja saat ini untuk mengidentifikasi area yang bisa dioptimalkan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 84,
+    "category": "TKP",
+    "question": "Anda ditugaskan menyelesaikan analisis data keuangan dalam waktu yang sangat terbatas. Bagaimana cara Anda memastikan kualitas hasil analisis tetapterjaga?",
+    "options": {
+      "A": "Fokus pada aspek-aspek utama dan menyederhanakan analisis aspek sekunder",
+      "B": "Meminta bantuan rekan untuk cross-check hasil analisis sebelum finalisasi",
+      "C": "Menggunakan template analisis yang sudah teruji untuk mempercepat proses",
+      "D": "Menerapkan sistem otomasi untuk perhitungan dasar agar bisa fokus pada analisis mendalam",
+      "E": "Membuat checklist verifikasi detail dan melakukan review bertahap setiap selesai satu"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 85,
+    "category": "TKP",
+    "question": "Dalam menyusun dokumen tender yang membutuhkan ketelitian tinggi, Anda memiliki waktu yang terbatas. Bagaimana Anda memastikan akurasi dokumen?",
+    "options": {
+      "A": "Fokus pada bagian- bagian penting dan menyederhanakan bagian yang kurang kritis",
+      "B": "Menggunakan dokumen tender sebelumnya sebagai referensi untuk mempercepat",
+      "C": "Meminta bantuan tim legal untuk review final sebelum submission",
+      "D": "Membagi dokumen menjadi beberapa bagian dan memeriksa secara bertahap",
+      "E": "Menyusun checklist detail mencakup semua komponen kritis yang wajib diverifikasi"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 86,
+    "category": "TKP",
+    "question": "Dalam srtuasi mendesak. Anda harus memilih antara menyelesaikan analisis data dengan sangat teliti atau menyerahkan hasil lebih cepat untuk pengambdan keputusan penting. Apa yang Anda lakukan?",
+    "options": {
+      "A": "Meminta perpanjangan waktu untuk memastikan ketelitian analisis",
+      "B": "Melakukan analisis cepat dan mencantumkan catatan tentang keterbatasan analisis",
+      "C": "Menyerahkan hasil preliminary untuk pengambilan keputusan awal",
+      "D": "Fokus pada ketelitian aspek kritis dan mempercepat analisis aspek sekunder",
+      "E": "Membagi analisis dalam tahapan prioritas dan melaporkan hasil secara bertahap"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 87,
+    "category": "TKP",
+    "question": "Anda bekerja di sebuah perusahaan yang sangat mengutamakan kinerja dan ketepatan waktu. Suatu pagi. atasan anda memberikan tugas mendesak yang mengharuskan anda melakukan perjalanan dinas ke luar kota untuk presentasi pent ing. Namun. pada saat yang bersamaan. anda memiliki beberapa proyek yang sudah menumpuk dan tenggat waktu untuk menyelesaikannya juga semakin dekat. Anda merasa terjepit antara tanggungjawab profesional dan kewajiban yang sudah ada. Apa tindakan yang akan anda lakukan?",
+    "options": {
+      "A": "Memutuskan untuk membawa semua pekerjaan ke luar kota dan berusaha menyelesaikannya di sela-sela perjalanan. meskipun tahu itu bisa sangat menantang.",
+      "B": "Mengajukan kepada atasan untuk menunda perjalanan dinas dan memberikan waktu tambahan untuk menyelesaikan pekerjaan di kantor.",
+      "C": "Menyarankan atasan agar ada orang lain yang bisa menggantikan anda untuk perjalanan ini, sehingga anda bisa fokus menyelesaikan tugas yang ada.",
+      "D": "Berusaha menyelesaikan tugas yang ada sebaik mungkin sebelum berangkat, lalu melapor kepada atasan tentang progres yang sudah dicapai.",
+      "E": "Merencanakan untuk mendistribusikan tugas-tugas yang dapat dikerjakan oleh rekan-rekan anda, memastikan semua proyek tetap beqalan lancar"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 88,
+    "category": "TKP",
+    "question": "Anda bekerja sebagai seorang satpam di sebuah bank yang selalu ramai dengan nasabah. Suatu hah. ketika anda sedang bertugas menjaga keamanan di area ATM, anda melihat seorang bapak-bapak yang tiba-tiba menyerobot antrian. Tindakan tersebut mengakibatkan kegaduhan dan membuat beberapa nasabah lain marah serta berdebat satu sama lain. Situasi mulai memanas. dan anda menyadari bahwa anda perlu bertindak cepat untuk meredakan ketegangan. Sebagai satpam yang bertanggung jawab menjaga keamanan dan ketertiban di bank, anda harus mempertimbangkan tindakan yang tepat tanpa memperburuk situasi. Apa yang harus anda lakukan?",
+    "options": {
+      "A": "Menghadapi bapak tersebut dengan keras. memarahinya karenatelah menyerobot antrian dan mengganggu ketertiban.",
+      "B": "Melaporkan situasi tersebut kepada atasan atau supervisor di bank agar bisa ditindaklanjuti dengan cara yang lebih formal.",
+      "C": "Meminta bantuan satpam lain untuk membantu melerai dan meredam kegaduhan yang terjadi. sehingga situasi bisa segera tenang.",
+      "D": "Mendekati bapak tersebut dengan tenang. meminta maaf. dan meminta dia untuk segera menyelesaikan transaksinya sambil mengingatkan untuk menghormati antrian.",
+      "E": "Dengan penuh kesopanan. meminta bapak tersebut untuk mengantri sesuai urutan atau beralih ke mesin ATM lain, sambil meminta maaf kepada nasabah lain atas ketidaknyamanan."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 89,
+    "category": "TKP",
+    "question": "Anda sedang mengerjakan sebuah proyek penting di tempat kerja bersama rekan-rekan anda. Namun. seiring berjalannya waktu, muncul konftik antara anda dan salah satu rekan kerja terkait pendekatan yang harus diambil. Masing-masing dari anda memiliki pandangan yang berbeda tentang bagaimana seharusnya proyek tersebut dijalankan. Situasi ini mulai memenganjhi suasana kerja tim. dan anda menyadari bahwa penting untuk menangani konfiik ini dengan cara yang profesional agar proyek dapat berjalan dengan baik. Apa yang anda lakukan?",
+    "options": {
+      "A": "Mengabaikan pendapat rekan kerja dan melanjutkan proyek sesuai dengan pandangan Anda sendiri. meskipun ada ketidakpuasan.",
+      "B": "Tidak memperdulikan rekan kerja dan tetap mengerjakan tugas sebisa mungkin tanpa melibatkan  dia. demi menyelesaikan proyek.",
+      "C": "Menyampaikan pendapat anda dengan tegas dan meminta rekan kerja untuk mengikuti cara Anda tanpa mempertimbangkan pandangannya.",
+      "D": "Mengadu kepada atasan tanpa berusaha menyelesaikan masalah secara langsung dengan rekan kerja. berharap atasan bisa memberi solusi.",
+      "E": "Mengundang rekan kerja untuk berdiskusi secara terbuka. mendengarkan pandangannya. dan bersama-sama mencari solusi yang mengakomodasi kedua belah pihak."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 90,
+    "category": "TKP",
+    "question": "Instansi Anda mengimplementasikan sistem manajemen kinerja baru yang mengubah total cara penilaian dan pelaporan. Beberapa rekan mengeluhkan sistem baru ini terlalu rumit. Sebagai koordinatortim. apa yang Anda lakukan?",
+    "options": {
+      "A": "Mengusulkan kembali ke sistem lama karena lebih mudah dipahami seluruh pegawai",
+      "B": "Menunggu pelatihan resmi dari bagian kepegawaian untuk seluruh pegawai",
+      "C": "Membentuk tim khusus untuk membantu adaptasi pegawai lain",
+      "D": "Membuat panduan sederhana dan mengadakan sesi latihan informal dengantim",
+      "E": "Mengumpulkan masukan dari tim untuk penyederhanaan sistem ke depan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 91,
+    "category": "TKP",
+    "question": "Seorang pegawai baru dari luar pulau terlihat kesulitan memahami kultur kerja dan bahasa informal yang sering digunakan dalam komunikasi tim. Bagaimana sikap Anda sebagai pemimpin tim?",
+    "options": {
+      "A": "Membiarkannya beradaptasi secara alami dengan lingkungan baru",
+      "B": "Menyarankan agar segera mempelajari bahasa dan kultur setempat",
+      "C": "Mengusulkan penggunaan bahasa formal dalam komunikasi tim",
+      "D": "Mengenalkannya pada rekan-rekan dan aktif melibatkannya dalam diskusi informal",
+      "E": "Menunjuk mentor khusus untuk membantunya beradaptasi"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 92,
+    "category": "TKP",
+    "question": "Sebagai ketua tim. Anda ingin memastikan setiap anggota merasa nyaman menyampaikan ide dalam rapat. Apa yang akan Anda lakukan?",
+    "options": {
+      "A": "Mewajibkan setiap anggota memberi minimal satu masukan per rapat",
+      "B": "Menerapkan sistem anonymous suggestion untuk ide-ide baru",
+      "C": "Memberikan kesempatan berbicara secara bergiliran kepada semua peserta rapat",
+      "D": "Meminta pendapat tertulis sebelum rapat untuk dibahas bersama",
+      "E": "Membuat kelompok diskusi kecil sebelum membahas dalam forum besar"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 93,
+    "category": "TKP",
+    "question": "Dalam tim Anda, beberapa anggota memiliki keterbatasan ftsik yang mempengaruhi mobilitas mereka.Bagaimana Anda memastikan mereka tetap dapat berkontribusi optimal?",
+    "options": {
+      "A": "Memindahkan mereka ke pekerjaan administratif yang lebih ringan",
+      "B": "Mengusulkan program kerja dari rumah untuk yang terbatas mobilitas",
+      "C": "Membentuk tim pendamping untuk membantu mobilitas mereka",
+      "D": "Meminta bagian SDM membuat kebijakan khusus untuk pegawai difabel",
+      "E": "Menyesuaikan pembagian tugas dan fasilitas kerja sesuai kemampuan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 94,
+    "category": "TKP",
+    "question": "Anda menyadari salah satu anggota tim yang pemalu jarang memberikan pendapat dalam diskusi kelompok meski memiliki kemampuan yang baik Apa tindakan Anda?",
+    "options": {
+      "A": "Mewajibkannya berbicara dalam setiap rapat untuk melatih keberanian",
+      "B": "Membiarkannya karena setiap orang memiliki gaya komumkasi berbeda",
+      "C": "Menunjuknya sebagai notulis agar tetap terlibat dalam diskusi",
+      "D": "Memintanya menyiapkan materi tertulis sebelum rapat",
+      "E": "Memberikan kesempatan presentasi dalam forum kecil untuk membangun kepercayaan diri"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 95,
+    "category": "TKP",
+    "question": "Di kantor anda. terdapat situasi di mana anda dan rekan kerja memiliki cara kerja yang berbeda. Hal ini menyebabkan kebingungan dan ketidakpuasan dalam kolaborasi. Anda menyadari bahwa untuk meningkatkan kerjasama dan produktivitas, anda perlu menemukan cara untuk mengatasi perbedaan ini secara konstruktif. Apa langkah strategis yang akan anda ambil untuk mengatasi situasi ini dan meningkatkan kerjasama di tim?",
+    "options": {
+      "A": "Mengabaikan perbedaan cara kerja dan melanjutkan dengan cara kerja yang anda anggap paling efisien. berharap rekan kerja dapat menyesuaikan diri.",
+      "B": "Mengusulkan perubahan cara kerja yang menguntungkan bagi anda tanpa memperhatikan pandangan rekan kerja. dengan harapan mereka akan mengikuti.",
+      "C": "Mengandalkan kebijakan perusahaan untuk menyelesaikan perbedaan tanpa melibatkan diskusi",
+      "D": "Mengusulkan perubahan cara kerja yang menguntungkan bagi anda tanpa memperhatikan pandangan rekan kerja. dengan harapan mereka akan mengikuti.",
+      "E": "Mengadakan pertemuan untuk saiing memahami metode kerja satu sama lain, berdiskusi untuk menemukan cara kerja yang saiing menguntungkan. dan berkompromi sesuai kebutuhan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 96,
+    "category": "TKP",
+    "question": "Di sebuah kota yang dikenal dengan keberagaman budaya, setiap tahun diadakanfestival budaya yang merayakan warisan berbagai suku dan komunitas. Namun, beberapa kelompok merasa bahwa festival tersebut tidak sepenuhnya mencerminkan kontribusi dan nilai-nilai budaya mereka. Mereka merasa terpinggirkan dan tidak memiliki kesempatan untuk menampilkan tradisi mereka. Dewan kota ingin mencari cara untuk membuat festival lebih inklusif dan representatif Apa langkah paling tepat yang dapat diambil oleh dewan kota untuk memastikan bahwa festival budaya mencerminkan keberagaman komunitas secara adil?",
+    "options": {
+      "A": "Memutuskan untuk tidak melanjutkan festival tahun ini dan hanya melakukan acara kecil untuk kelompok yang ingin berpartisipasi",
+      "B": "MMenyusun program festival yang hanyafokus pada kelompok budaya mayoritas. dengan harapan dapat menarik lebih banyak pengunjung",
+      "C": "Membangun batasan antara kelompok budaya yang berbeda selama festival agar tidak terjadi konfiik.",
+      "D": "Mengadakan festival terpisah untuk setiap kelompok budaya agar semua kelompok merasa terwakili.",
+      "E": "Mengundang perwakilan dari setiap kelompok budaya untuk terlibat dalam perencanaan festival  dan memberikan kesempatan untuk menampilkan tradisi mereka secara adil"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 97,
+    "category": "TKP",
+    "question": "Anda mendapati rekan-rekan seunit kerja sering terhambat pekerjaan karena penggunaan perangkat teknologi yang tidak optimal (membuka banyak aplikasi sekaligus. tidak memanfaatkan shortcut, dll). Sebagai koordinator unit, apa yang sebaiknya Anda lakukan?",
+    "options": {
+      "A": "Membuat panduan best practice penggunaan perangkat teknologi untuk unit",
+      "B": "Membuat aturan standar penggunaan perangkat teknologi di unit",
+      "C": "Meminta divisi IT membehkan pelatihan penggunaan perangkat yang efisien",
+      "D": "Mengirim artikel-artikel tentang produktivitas teknologi di grup unit",
+      "E": "Mengadakan sesi sharing tips dan trik penggunaan teknologi setiap minggu"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 98,
+    "category": "TKP",
+    "question": "Software baru untukmanajemen dokumendiimplementasikan di kantorAnda. Beberapa fitur berbeda signifikan dari verst sebelumnya. Apa langkah Anda?",
+    "options": {
+      "A": "Menunggu peiatihan resmi dari kantor pusat",
+      "B": "Meminta bantuan kepada rekan yang sudah mahir",
+      "C": "Mencoba eksplorasi frtur-fiturbanj di waktu luang",
+      "D": "Membaca manual penggunaan software secara mendetail",
+      "E": "Mengikuti Tutorial Online dan mencoba mempraktikannya"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 99,
+    "category": "TKP",
+    "question": "Rekan senior Anda kesulitan menggunakan sistem dokumentasi digital yang baru diterapkan. Dia terlihat frustrasi dan mulai menghindari menggunakan sistem tersebut. Bagaimana Anda membantunya?",
+    "options": {
+      "A": "Menawarkan untuk mengerjakan tugas digitalnya sementara waktu",
+      "B": "Menyarankan untuk tetap menggunakan sistem lama sampai terbiasa",
+      "C": "Melaporkan kesulitannya ke bagian IT untuk mendapat peiatihan khusus",
+      "D": "Mendampingi dengan sabar dan membuat catatan langkah-langkah sederhana",
+      "E": "Membuatkan video tutorial khusus sesuai kebutuhan pekerjaannya"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 100,
+    "category": "TKP",
+    "question": "Anda diminta menyusun laporan keuangan menggunakan software akuntansiyang baru. Deadline 3 hari lagi dan anda belum pernah menggunakan software tersebut. Apa yang Anda lakukan?",
+    "options": {
+      "A": "Meminta perpanjangan waktu untuk belajar software baru",
+      "B": "Mengerjakan dengan sistem manual sambil belajar software baru",
+      "C": "Menggunakan software lama dan memindahkan hasilnya ke format baru",
+      "D": "Mencari bantuan rekan yang sudah mahir untuktutorial cepat",
+      "E": "Membuat rencana belajar intensif di hari pertama lalu mulai mengerjakan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+
+  {
+    "id": 101,
+    "category": "TKP",
+    "question": "Anda menemukan fitur otomatisasi dalam spreadsheet yang dapat memangkas waktu pembuatan laporan bulanan hingga 70%. Bagaimana Anda memastikan tim memanfaatkan frtur ini?",
+    "options": {
+      "A": "Mengirim panduan penggunaan fitur di grup tim",
+      "B": "Menyarankan setiap anggota tim untuk mencoba frtur tersebut",
+      "C": "Menerapkan penggunaan frtur sebagai standar laporan unit",
+      "D": "Membuat template dengan frtur tersebut untuk digunakan tim",
+      "E": "Mengadakan demo langsung dan bersama tim"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 102,
+    "category": "TKP",
+    "question": "Atasan Anda mendorong Anda untuk mengikuti kursus e-leaming agar lebih mahir dalam penggunaan software yang baru diperkenalkan. Bagaimana Anda akan melaksanakan tugas ini?",
+    "options": {
+      "A": "Membuat kelompok belajar dengan rekan kerja yang juga mengikuti kursus untuk saling mendukung dan berbagi pemahaman",
+      "B": "Membuat jadwai belajar yang konsisten, mengalokasikan waktu setiap hari untuk menyelesaikan kursus e-learning.",
+      "C": "Mencoba menerapkan setiap konsep baru yang dtpelajari dalam pekerjaan nyata segera setelah menyelesaikan modul terkait",
+      "D": "Memprioritaskan modul kursus yang iangsung berkaitan dengan tugas sehari-hari Anda dalam menggunakan software tersebut",
+      "E": "Mengidentifikasi fitur-fitur software yang soring Anda gunakan dan fokus mempeiajari materi terkart teriebih dahulu."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 103,
+    "category": "TKP",
+    "question": "Anda bekerja di sebuah Instansi pemerintahan yang baru saja menerapkan sistem manajemen data berbasis cloud untuk meningkatkan efisiensi dan transparansi dalam pelayanan publik. Meskipun ada potensi besar untuk meningkatkan kinerja. beberapa pegawai merasa ragu mengenai keamanan data dan kesesuaian teknotogi tersebut Sebagai pegawai yang bertanggung jawab untuk mendukung implementasi sistem ini, anda harus mengambil langkah strategis untuk mengatasi kekhawatiran pegawai dan memastikan penggunaan teknotogi Ini berjalan dengan lancar Dalam konteks ini. langkah mana yang paling efektif untuk anda ambil guna mengatasi kekhawatiran pegawai dan memastikan keberhasilan implementasi sistem manajemen data berbasis cloud?",
+    "options": {
+      "A": "Mengabaikan kekhawatiran pegawai dan menerapkan sistem secara Iangsung. berharap bahwa seiring waktu mereka akan terbiasa dan memahami sistem baru tanpa perlu banyak bimbingan",
+      "B": "Menyarankan kepada manajemen untuk kembali menggunakan sistem tradistonal karena dinilai lebih aman dan familiar bagi pegawai. mengmgat kekhawatiran yang ada di antara staf mengenai keamanan data.",
+      "C": "Menyusun tim khusus yang terdin dari perwakilan dari setiap departemen untuk mengawasi penggunaan sistem baru. memberikan pelatihan dan dukungan. serta menyusun laporan berkala tentang tingkat kepatuhan dan efektlvitas penggunaan sistem kepada manajemen",
+      "D": "Meminta saran dari pegawai senior yang lebih berpengalaman mengenai cara-cara efektif untuk memperkenalkan teknotogi baru. dan menjadrkan mereka sebagai duta untuk menyampaikan informasi kepada rekan-rekan mereka",
+      "E": "Menyelenggarakan petetlhan dan workshop secara berkala tentang penggunaan sistem baru serta keamanan data. termasuk sed int eraktif yang membahas manfaat sistem berbasis cloud dan bagaimana mengeloia rislko terkait Pastlkan untuk mengundang ahli keamanan data untuk membertkan wawasan yang lebih mendaiam"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 104,
+    "category": "TKP",
+    "question": "Sebuah isu sensitif terkait kedaulatan negara menjadi viral dan menimbulkan perdebatan di kantor Beberapa rekan mulai terprovokasi dan membuat pernyataan yang mengancam persatuan. Sebagai PNS. apa tindakan Anda?",
+    "options": {
+      "A": "Melaporkan rekan yang membuat pernyataan provokatif ke atasan",
+      "B": "Melarang diskusi tentang isu tersebut di lingkungan kantor",
+      "C": "Membagikan data dan fakta resmi dari sumber pemerintah yang terpercaya",
+      "D": "Mengadakan diskusi terbuka dengan mengundang narasumber berkompeten",
+      "E": "Mengingatkan peran PNS sebagai perekat bangsa dan pentlngnya menjaga netralltas"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 105,
+    "category": "TKP",
+    "question": "Terjadi ketegangan antar kelompok pegawai yang berasal dari etnis berbeda akibat persaingan dalam promosi jabatan. Beberapa pihak mulai mengungkit isu SARA Bagaimana Anda menyikapinya?",
+    "options": {
+      "A": "Mengabaikan isu tersebut dan fokus pada pekerjaan",
+      "B": "Meminta pimpinan membuat kebijakan tegas tentang diskriminasi",
+      "C": "Mengadakan kegiatan team building yang memperkuat kebersamaan",
+      "D": "Membentuk tim khusus yang mewakili semua kelompok untuk mediasi",
+      "E": "Mensosialisasikan sistem penilaian kinerja yang objektif dan transparan"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 106,
+    "category": "TKP",
+    "question": "106. Menjelang pemilu. beberapa rekan kerja mulai membawa isu politik ke kantor dan mempengaruhi dinamika kerja tim. Ada ketegangan antara pendukung kandidat berbeda. Apa yang Anda lakukan?",
+    "options": {
+      "A": "Melaporkan pegawai yang melakukan kampanye ke atasan",
+      "B": "Membiarkan diskusi politik selama tidak mengganggu pekerjaan",
+      "C": "Membuat kesepakatan tim untuk tidak membahas politik di kantor",
+      "D": "Mengadakan diskusi terbuka tentang pentingnya profesionalisme",
+      "E": "Mengingatkan tentang netralitas PNS dan fokus pada pelayanan publik"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 107,
+    "category": "TKP",
+    "question": "Kantor mencanangkan program 'Bhinneka Tunggal Ika Week' untuk memperkuat persatuan karyawan. Beberapa rekan menganggap ini membuang waktu. Bagaimana sikap Anda?",
+    "options": {
+      "A": "Menunggu arahan atasan tentang tingkat partisipasi yang diharapkan",
+      "B": "Mengikuti seperlunya tanpa perlu terlibat aktif",
+      "C": "Membuat dokumentasi kegiatan untuk evaluasi efektivitas program",
+      "D": "Berpartisipasi aktif dan mengajak rekan lain terlibat",
+      "E": "Mengusulkan aktivitas yang relevan dengan pekerjaan sehari-hari"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 108,
+    "category": "TKP",
+    "question": "Anda menemukan rekan kerja aktif membagikan postingan bermuatan SARA di grup media sosial kantor. Beberapa anggota mulai menanggapi secara emosional. Apa tindakan Anda?",
+    "options": {
+      "A": "Keluar dari grup untuk menghindari kontroversi",
+      "B": "Melaporkan ke admin grup untuk ditindaklanjuti",
+      "C": "Membagikan konten positif tentang keberagaman untuk mengimbangi",
+      "D": "Menghubungi pribadi untuk meminta postingan dihapus",
+      "E": "Menglngatkan tentang etika bermedia sosial sebagal ASN"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 109,
+    "category": "TKP",
+    "question": "Sebagai seorang aktivis di sebuah lembaga yang berfokus pada radikalisasi, anda menyadari bahwa banyak orangtua tidak memahami bagaimana pengaruh media sosial dapat mempengaruhi pemikiran anak-anak mereka. Anda ingin melibatkan orangtua dalam upaya mencegah radikaisasi di kalangan remaja. Apa pendekatan terbaik yang dapat anda lakukan untuk melibatkan orangtua dalam program pencegahan ini?",
+    "options": {
+      "A": "Mendorong orang tua untuk melaporkan aktivitas mencurigakan anak-anak mereka kepada pihak berwenang, tetapi tanpa memberikan konteks atau dukungan dalam cara berkomunikasi dengan anak-anak mereka",
+      "B": "Mengirimkan brosur yang berisi informasi dasar tentang radikalisasi dan cara menghindarinya tetapi tanpa mengadakan pertemuan langsung untuk membahas hal tersebut.",
+      "C": "Membuat grup diskusi online di media sosial untuk orang tua. di mana mereka dapat berbagi pengalaman dan tantangan yang dihadapi terkait dengan perilaku anak-anak mereka. sambil tidak memberikan panduan yang jelas",
+      "D": "Menyusun program pelatihan bagi orang tua untuk mengajari mereka cara berkomunikasi dengan anak-anak tentang isu-isu sosial. tetapi tanpa melibatkan mereka dalam pengambilan keputusan terkait program tersebut.",
+      "E": "Mengadakan seminar bag! orang tua tentang bahaya radikalisasi dan cara mengenali tanda-tanda perllaku ekstremis pada anak-anak, dengan melibatkan pakar dalam bldang psikologl Q dan pendldikan."
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  },
+  {
+    "id": 110,
+    "category": "TKP",
+    "question": "Dalam lingkungan kerja, anda diharapkan berperan sebagai agen perubahan untuk mencegah radikalisasi dan menciptakan budaya yang inklusif. Mengingat kompleksitas isu ini dan pentingnya pendekatan yang efektif, langkah strategis apa yang sebaiknya anda ambil sebagai langkah pertama untuk menciptakan dampak positif di tempat kerja?",
+    "options": {
+      "A": "Mengabaikan masalah ini sepenuhnya, beranggapan bahwa ini bukan tanggung jawab anda dan lebih baik fokus pada tugas dan tanggung jawab pekerjaan anda sendiri.",
+      "B": "Bersikap acuh tak acuh terhadap isu ini, berpikir bahwa perubahan budaya tidak akan terjadi dan lebih baik tidak terlibat dalam masalah yang tidak dapat anda kontrol. meskipun anda menyadari potensi risiko bagi lingkungan kerja.",
+      "C": "Menghindari diskusi tentang isu sensitif terkait radikalisasi dan keberagaman, dengan berpikir bahwa mengangkat topik tersebut hanya akan menciptakan ketegangan di antara rekan-rekan kerja dan lebih baik membiarkan masalah tersebut tidak terbahas.",
+      "D": "Mengandalkan pihak lain, seperti manajemen atau tim HR, untuk menangani isu ini, dengan keyakinan bahwa mereka yang memiliki otoritas lebih besar akan lebih mampu mengatasi masalah radikalisasi tanpa perlu campur tangan dari anda",
+      "E": "Mengorganislr sesl pelatihan yang komprehenslf tentang toleransi, keberagaman. dan dampak radikalisasi. melibatkan para a hl I untuk memberikan wawasan dan keterampilan kepada rekan kerja. serta menciptakan ruang untuk diskusi terbuka dan reffeksl"
+    },
+    "scoring": {
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "E": 5
+    },
+    "points": "variable"
+  }
+]
